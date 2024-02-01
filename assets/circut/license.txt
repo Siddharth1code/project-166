@@ -1,0 +1,11 @@
+Model Information:
+* title:	Circut - Cloud
+* source:	https://sketchfab.com/3d-models/circut-cloud-21aa5752e7d94fc7bdf4cccdf33ff176
+* author:	jonathanmdana (https://sketchfab.com/jonathanmdana)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Circut - Cloud" (https://sketchfab.com/3d-models/circut-cloud-21aa5752e7d94fc7bdf4cccdf33ff176) by jonathanmdana (https://sketchfab.com/jonathanmdana) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
